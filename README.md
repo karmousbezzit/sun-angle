@@ -1,5 +1,5 @@
 # sun-altitude
-A simple SwiftBar script to display Sun altitude.
+A simple SwiftBar script to display Sun altitude in the menu bar.
 
 ## Instructions
 1. Install SwiftBar: https://github.com/swiftbar/SwiftBar
