@@ -1,5 +1,5 @@
-# sun-angle
-A simple SwiftBar script to display Sun altitude
+# sun-altitude
+A simple SwiftBar script to display Sun altitude.
 
 ## Instructions
 1. Install SwiftBar: https://github.com/swiftbar/SwiftBar
